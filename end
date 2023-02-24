@@ -1,0 +1,23 @@
+[33mcommit 88d7c6dcde74a7bfe711a149646172600edbf89a[m[33m ([m[1;36mHEAD -> [m[1;32mnew-feature[m[33m)[m
+Author: skazhi <1vladimir.alekseev@gmail.com>
+Date:   Fri Feb 24 15:28:00 2023 +0300
+
+    Modified fourth file in the feature branch
+
+[33mcommit 79abd09d1d7e91653809df9f04557571cd4523d5[m
+Author: skazhi <1vladimir.alekseev@gmail.com>
+Date:   Fri Feb 24 15:23:47 2023 +0300
+
+    New file in the feature branch
+
+[33mcommit 4278543dde59bd2ce361f1d95a6fa0a6eda7595a[m[33m ([m[1;32mmain[m[33m)[m
+Author: skazhi <1vladimir.alekseev@gmail.com>
+Date:   Fri Feb 24 14:00:15 2023 +0300
+
+    Second commit
+
+[33mcommit c3179d9fa2465124e931f3696ccf074409736510[m
+Author: skazhi <1vladimir.alekseev@gmail.com>
+Date:   Fri Feb 24 13:40:02 2023 +0300
+
+    First commit
